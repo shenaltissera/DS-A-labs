@@ -9,7 +9,6 @@ Welcome to the Lab Sheets and Jupyter Notebook Scripts Repository! This reposito
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -96,8 +95,6 @@ We welcome contributions from the community. If you have lab sheets, Jupyter Not
 
 We will review your contribution and merge it if it aligns with the goals of the repository.
 
-## License
 
-This repository is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the contents of this repository, but please attribute the source if you choose to share it. Refer to the [LICENSE](LICENSE) file for more details.
 
 Happy learning and exploring!
